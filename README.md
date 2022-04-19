@@ -3,7 +3,7 @@ https://www.xuxueli.com/xxl-job/
 
 # xxl-job架构
 
-![img](typora/61b42038067c7e937951f6fda1e52759)
+![image-20220419220415836](typora/image-20220419220415836.png)
 
 # xxl-job使用
 
@@ -100,3 +100,16 @@ public class XxlJobConfig {
 
 4.添加任务
 
+# xxl-job获取任务参数
+
+![image-20220419210228822](typora/image-20220419210228822.png)
+
+![image-20220419210240546](typora/image-20220419210240546.png)
+
+# xxl-job动态添加，删除和启用停用任务
+
+https://juejin.cn/post/7036269605250727966
+
+https://javaenigneer.github.io/2021/01/22/XXL-JOB%E5%8A%A8%E6%80%81%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1%E8%AF%A6%E8%A7%A3%E7%AF%872/
+
+https://codeleading.com/article/16615673398/
